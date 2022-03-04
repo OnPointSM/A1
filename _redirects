@@ -1,3 +1,0 @@
-# http and https need separate rules if you don’t force_ssl!
-http://www.onpointsm.fr/* https://onpointsm.fr/
-http://onpointsm.fr/* https://onpointsm.fr/
