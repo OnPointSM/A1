@@ -2,7 +2,7 @@
 Title: "OnPoint.SM"
 Headless: false
 ---
-<div style="background: lightblue;
+<div style="background: #1DA1F2;
               color:white;
             font-size: 42px;
             padding: 14px;
