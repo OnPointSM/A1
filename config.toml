@@ -95,5 +95,5 @@ series = "series"
     weight           = 0
     title            = "OnPoint.SM | Gestion sur mesure de contenu Web en anglais"
     [languages.fr.params]
-        description  = "J’offre l’adaptation de vos campagnes de marketing en français aux marchés anglophones, en mettant l’accent sur le contenu dynamique et engageant des médias sociaux"
-         footer = '<p>Thanks to Victoria @<a href="https://github.com/victoriadrake/hugo-theme-introduction/" target="_blank" >Introduction Theme</a>.</p>'
+    footerText = '<p>Thanks to Victoria @<a href="https://github.com/victoriadrake/hugo-theme-introduction/" target="_blank" >Introduction Theme</a>.</p>'
+description  = "J’offre l’adaptation de vos campagnes de marketing en français aux marchés anglophones, en mettant l’accent sur le contenu dynamique et engageant des médias sociaux"
