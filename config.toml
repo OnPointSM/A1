@@ -1,4 +1,4 @@
-baseURL                          = "http://example.com/"   # Your domain name. Must end with "/"
+baseURL                          = "https://onpointsm.fr/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "fr"                    # Default language for multilingual sites
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
@@ -93,7 +93,7 @@ series = "series"
     languageCode     = "fr"
     contentDir       = "content/fr"
     weight           = 0
-    title            = "OnPoint.SM | Gestion sur mesure de contenu Web en anglais"
+    title            = "OnPointSM | Gestion sur mesure de contenu Web en anglais"
     [languages.fr.params]
-    footerText = '<p>Thanks to Victoria @<a href="https://github.com/victoriadrake/hugo-theme-introduction/" target="_blank" >Introduction Theme</a>.</p>'
+    footerText = '<p>Un grand remerciement à Victoria @<a href="https://github.com/victoriadrake/hugo-theme-introduction/" target="_blank" >Introduction Theme</a>.</p>'
 description  = "J’offre l’adaptation de vos campagnes de marketing en français aux marchés anglophones, en mettant l’accent sur le contenu dynamique et engageant des médias sociaux"
